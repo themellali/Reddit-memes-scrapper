@@ -131,7 +131,7 @@ export default function Home() {
        <div className="flex flex-col items-center w-full max-w-3xl">
          <Card className="w-full shadow-lg mb-8 rounded-lg">
            <CardHeader className="p-4 sm:p-6">
-             <CardTitle className="text-xl sm:text-2xl font-bold text-center text-foreground">Subreddit Image Demon</CardTitle> {/* Updated Title */}
+             <CardTitle className="text-xl sm:text-2xl font-bold text-center text-foreground">Reddit Meme Scrapper</CardTitle> {/* Updated Title */}
            </CardHeader>
            <CardContent className="p-4 sm:p-6">
              <form ref={formRef} action={formAction} className="space-y-4">
